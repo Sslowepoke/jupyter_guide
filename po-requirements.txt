@@ -1,0 +1,14 @@
+imageio
+ipykernel
+ipython
+jupyter_client
+jupyter_core
+jupyter
+matplotlib
+matplotlib-inline
+numpy
+scikit-image
+scikit-learn
+scipy
+tifffile
+seaborn
